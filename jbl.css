@@ -1,0 +1,28 @@
+main{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.row{
+    justify-content: space-evenly;
+}
+.card{
+    margin-top: 30px;
+}
+.acordion{
+    margin: 30px;
+}
+.display{
+    color: rgb(37, 255, 226);
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+/*Medium devices (tablets, 768px and up)*/
+
+@media (min-width: 500px) { 
+    .carousel-inner{
+        height: 500px;
+    }
+}
